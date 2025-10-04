@@ -9,7 +9,7 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #4b0082;
+    background-color: #fff;
     color: #fff;
     display: flex;
     height: 7vw;
@@ -184,3 +184,4 @@ nav h1 {
     text-shadow: 0 0 100px #2c7ffc;
 
     }
+
