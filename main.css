@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
 
 body {
-    background-color: #4b0082;
+    background-color: #1b1b1b;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -9,7 +9,7 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #fff;
+    backdrop-filter: blur(10px) saturate(200%) brightness(70%);
     color: #fff;
     display: flex;
     height: 7vw;
@@ -182,6 +182,4 @@ nav h1 {
     .featured .play-button i {
     font-size: 5vw;
     text-shadow: 0 0 100px #2c7ffc;
-
     }
-
