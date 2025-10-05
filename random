@@ -1,5 +1,5 @@
-git rm --cached -r games/MonkeyMart
-rm -rf games/MonkeyMart/.git
-git add games/MonkeyMart
+git rm --cached -r games/CookieClicker
+rm -rf games/CookieClicker/.git
+git add games/CookieClicker
 git commit -m "Converted FunnyShooter2 repo to regular folder"
 git push
