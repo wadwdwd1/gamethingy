@@ -1,0 +1,5 @@
+git rm --cached -r games/SurvivalRace
+rm -rf games/SurvivalRace/.git
+git add games/SurvivalRace
+git commit -m "Converted SurvivalRace repo to regular folder"
+git push
