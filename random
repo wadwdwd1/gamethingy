@@ -1,5 +1,5 @@
-git rm --cached -r games/BasketballLegends
-rm -rf games/BasketballLegends/.git
-git add games/BasketballLegends
-git commit -m "Converted BasketballLegends repo to regular folder"
+git rm --cached -r games/VolleyRandom
+rm -rf games/VolleyRandom/.git
+git add games/VolleyRandom
+git commit -m "Converted VolleyRandom repo to regular folder"
 git push
