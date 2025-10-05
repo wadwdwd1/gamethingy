@@ -1,5 +1,5 @@
-git rm --cached -r games/GetawayShootout
-rm -rf games/GetawayShootout/.git
-git add games/GetawayShootout
-git commit -m "Converted GetawayShootout repo to regular folder"
+git rm --cached -r games/FunnyShooter2
+rm -rf games/FunnyShooter2/.git
+git add games/FunnyShooter2
+git commit -m "Converted FunnyShooter2 repo to regular folder"
 git push
