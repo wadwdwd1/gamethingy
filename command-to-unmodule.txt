@@ -1,0 +1,5 @@
+git rm --cached -r games/SubwaySurfersSingapore
+rm -rf games/SubwaySurfersSingapore/.git
+git add games/SubwaySurfersSingapore
+git commit -m "Converted SubwaySurfersSingapore repo to regular folder"
+git push
