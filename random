@@ -1,5 +1,5 @@
-git rm --cached -r games/Prankster3D
-rm -rf games/Prankster3D/.git
-git add games/Prankster3D
-git commit -m "Converted Prankster3D repo to regular folder"
+git rm --cached -r games/GetawayShootout
+rm -rf games/GetawayShootout/.git
+git add games/GetawayShootout
+git commit -m "Converted GetawayShootout repo to regular folder"
 git push
