@@ -1,5 +1,5 @@
-git rm --cached -r games/Run3
-rm -rf games/Run3/.git
-git add games/Run3
+git rm --cached -r games/operius-game
+rm -rf games/operius-game/.git
+git add games/operius-game
 git commit -m "Converted FunnyShooter2 repo to regular folder"
 git push
