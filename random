@@ -1,5 +1,5 @@
-git rm --cached -r games/operius-game
-rm -rf games/operius-game/.git
-git add games/operius-game
+git rm --cached -r games/ParkourRace
+rm -rf games/ParkourRace/.git
+git add games/ParkourRace
 git commit -m "Converted FunnyShooter2 repo to regular folder"
 git push
