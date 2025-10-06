@@ -1,5 +1,5 @@
-git rm --cached -r games/CookieClicker
-rm -rf games/CookieClicker/.git
-git add games/CookieClicker
+git rm --cached -r games/TempleRun
+rm -rf games/TempleRun/.git
+git add games/TempleRun
 git commit -m "Converted FunnyShooter2 repo to regular folder"
 git push
