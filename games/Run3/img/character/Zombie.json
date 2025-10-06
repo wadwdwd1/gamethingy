@@ -1,0 +1,787 @@
+{"frames": [
+
+{
+	"filename": "Zombie instance 10000",
+	"frame": {"x":0,"y":0,"w":76,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10001",
+	"frame": {"x":77,"y":0,"w":85,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10002",
+	"frame": {"x":163,"y":0,"w":87,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10003",
+	"frame": {"x":251,"y":0,"w":87,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10004",
+	"frame": {"x":339,"y":0,"w":87,"h":67},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":9,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10005",
+	"frame": {"x":427,"y":0,"w":86,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":9,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10006",
+	"frame": {"x":514,"y":0,"w":82,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":11,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10007",
+	"frame": {"x":597,"y":0,"w":77,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":13,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10008",
+	"frame": {"x":675,"y":0,"w":77,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10009",
+	"frame": {"x":753,"y":0,"w":80,"h":54},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":22,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10010",
+	"frame": {"x":834,"y":0,"w":86,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":23,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10011",
+	"frame": {"x":834,"y":0,"w":86,"h":53},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":23,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10012",
+	"frame": {"x":921,"y":0,"w":77,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":13,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10013",
+	"frame": {"x":0,"y":70,"w":76,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":6,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10014",
+	"frame": {"x":77,"y":70,"w":76,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10015",
+	"frame": {"x":154,"y":70,"w":85,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10016",
+	"frame": {"x":240,"y":70,"w":85,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10017",
+	"frame": {"x":326,"y":70,"w":89,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10018",
+	"frame": {"x":416,"y":70,"w":87,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":9,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10019",
+	"frame": {"x":504,"y":70,"w":84,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":9,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10020",
+	"frame": {"x":589,"y":70,"w":79,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":10,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10021",
+	"frame": {"x":669,"y":70,"w":75,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":11,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10022",
+	"frame": {"x":745,"y":70,"w":72,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":13,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10023",
+	"frame": {"x":818,"y":70,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":15,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10024",
+	"frame": {"x":894,"y":70,"w":83,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10025",
+	"frame": {"x":894,"y":70,"w":83,"h":62},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10026",
+	"frame": {"x":0,"y":144,"w":79,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10027",
+	"frame": {"x":80,"y":144,"w":74,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10028",
+	"frame": {"x":155,"y":144,"w":76,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10029",
+	"frame": {"x":232,"y":144,"w":85,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":6,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10030",
+	"frame": {"x":318,"y":144,"w":85,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10031",
+	"frame": {"x":404,"y":144,"w":89,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10032",
+	"frame": {"x":494,"y":144,"w":87,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10033",
+	"frame": {"x":582,"y":144,"w":84,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10034",
+	"frame": {"x":667,"y":144,"w":79,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":9,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10035",
+	"frame": {"x":747,"y":144,"w":75,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":10,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10036",
+	"frame": {"x":823,"y":144,"w":71,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":12,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10037",
+	"frame": {"x":895,"y":144,"w":75,"h":63},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":14,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10038",
+	"frame": {"x":0,"y":220,"w":82,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10039",
+	"frame": {"x":0,"y":220,"w":82,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":18,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10040",
+	"frame": {"x":83,"y":220,"w":79,"h":65},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":11,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10041",
+	"frame": {"x":163,"y":220,"w":74,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10042",
+	"frame": {"x":238,"y":220,"w":73,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10043",
+	"frame": {"x":312,"y":220,"w":76,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10044",
+	"frame": {"x":389,"y":220,"w":78,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":6,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10045",
+	"frame": {"x":468,"y":220,"w":76,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10046",
+	"frame": {"x":545,"y":220,"w":76,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10047",
+	"frame": {"x":622,"y":220,"w":73,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10048",
+	"frame": {"x":696,"y":220,"w":72,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10049",
+	"frame": {"x":769,"y":220,"w":76,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10050",
+	"frame": {"x":846,"y":220,"w":78,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10051",
+	"frame": {"x":925,"y":220,"w":73,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10052",
+	"frame": {"x":0,"y":294,"w":76,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10053",
+	"frame": {"x":77,"y":294,"w":78,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":6,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10054",
+	"frame": {"x":156,"y":294,"w":76,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10055",
+	"frame": {"x":233,"y":294,"w":74,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10056",
+	"frame": {"x":308,"y":294,"w":72,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10057",
+	"frame": {"x":381,"y":294,"w":72,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10058",
+	"frame": {"x":454,"y":294,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10059",
+	"frame": {"x":529,"y":294,"w":78,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10060",
+	"frame": {"x":608,"y":294,"w":66,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10061",
+	"frame": {"x":675,"y":294,"w":65,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10062",
+	"frame": {"x":741,"y":294,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10063",
+	"frame": {"x":806,"y":294,"w":67,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10064",
+	"frame": {"x":874,"y":294,"w":69,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10065",
+	"frame": {"x":944,"y":294,"w":73,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":2,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10066",
+	"frame": {"x":0,"y":370,"w":74,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10067",
+	"frame": {"x":75,"y":370,"w":66,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10068",
+	"frame": {"x":142,"y":370,"w":64,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10069",
+	"frame": {"x":207,"y":370,"w":66,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10070",
+	"frame": {"x":274,"y":370,"w":69,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10071",
+	"frame": {"x":344,"y":370,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10072",
+	"frame": {"x":417,"y":370,"w":74,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10073",
+	"frame": {"x":492,"y":370,"w":76,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10074",
+	"frame": {"x":569,"y":370,"w":79,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10075",
+	"frame": {"x":649,"y":370,"w":79,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":1,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10076",
+	"frame": {"x":729,"y":370,"w":76,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10077",
+	"frame": {"x":806,"y":370,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10078",
+	"frame": {"x":879,"y":370,"w":66,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10079",
+	"frame": {"x":946,"y":370,"w":69,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":6,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10080",
+	"frame": {"x":0,"y":446,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10081",
+	"frame": {"x":74,"y":446,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10082",
+	"frame": {"x":149,"y":446,"w":76,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10083",
+	"frame": {"x":226,"y":446,"w":79,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10084",
+	"frame": {"x":306,"y":446,"w":79,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10085",
+	"frame": {"x":386,"y":446,"w":76,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10086",
+	"frame": {"x":463,"y":446,"w":73,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10087",
+	"frame": {"x":537,"y":446,"w":66,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":7,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10088",
+	"frame": {"x":604,"y":446,"w":65,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":6,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10089",
+	"frame": {"x":670,"y":446,"w":64,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10090",
+	"frame": {"x":735,"y":446,"w":66,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":3,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10091",
+	"frame": {"x":802,"y":446,"w":68,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10092",
+	"frame": {"x":871,"y":446,"w":69,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10093",
+	"frame": {"x":941,"y":446,"w":74,"h":64},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10094",
+	"frame": {"x":0,"y":522,"w":67,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":2,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10095",
+	"frame": {"x":68,"y":522,"w":64,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":5,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}
+,{
+	"filename": "Zombie instance 10096",
+	"frame": {"x":133,"y":522,"w":2,"h":2},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":43,"w":90,"h":83},
+	"sourceSize": {"w":90,"h":83}
+}],
+"meta": {
+	"app": "Adobe Flash CS6",
+	"version": "12.0.2.529",
+	"image": "Zombie.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
