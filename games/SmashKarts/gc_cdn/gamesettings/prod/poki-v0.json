@@ -1,0 +1,8 @@
+{
+  "mainMenuBannerAdChanceHome": 50,
+  "maintenanceMaxVer": "2.2.9",
+  "maintenanceStr": "You are loading an unofficial version of SmashKarts! Please go to smashkarts.io to play the latest version or go to smashkarts.io/unblocked for a list of proxies",
+  "showNoAdsWidget": false,
+  "socialFeaturesEnabled": false,
+  "winCermoniesPerInterstitial": 1
+}

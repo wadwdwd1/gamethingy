@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Smash Karts - Poki</title>
+	<script>
+	window.config = {
+		loader: 'unity-2020',
+		debug: false,
+		maxRatio: 24 / 9,
+		minRatio: 9 / 24,
+
+		title: 'Smash Karts',
+		thumbnail: 'https:\/\/img.poki-cdn.com\/9c9e529b14731be871b07b89660bbc2a.png',
+		numScreenshots:  4 ,
+
+		unityVersion: '2022.3.52f1',
+		unityWebglBuildUrl: '',
+
+		fileSize:  84 ,
+		cachedDecompressedFileSizes: {
+			'3f55d581f49e627020459f94a461e4d4.wasm':  51029708 ,
+			'6a0c4ee3a6a11a879cd0c6bb6edabedb.framework.js':  495224 ,
+			'76f034cff49013ce85bd6945ebf32347.loader.js':  20437 ,
+			'fa4033f8179b6a0094e7b982e8cfbc1d.data':  32857425 ,
+		},
+		"metadata": {"poki_template_version":1,"background_color":"#1B70F0","code_filename":"3f55d581f49e627020459f94a461e4d4.wasm","company_name":"TallTeam","data_filename":"fa4033f8179b6a0094e7b982e8cfbc1d.data","development_player":"false","framework_filename":"6a0c4ee3a6a11a879cd0c6bb6edabedb.framework.js","height":"600","loader_filename":"76f034cff49013ce85bd6945ebf32347.loader.js","product_name":"Smash Karts","product_version":"2.10.0","splash_screen_style":"Light","unity_version":"2022.3.52f1","use_data_caching":"true","use_threads":"false","use_wasm":"true","use_webgl_1_0":"true","use_webgl_2_0":"true","width":"960"}
+	};
+	</script>
+	<link rel="stylesheet" href="css/poki.css" />
+
+	<script>
+		<!--MOBILE_DATA_XXXX tags will get overridden by build script -->
+		var mobileDataFilename = "dd4797845138048f180cfc50b1aa90ea.data";
+		if (!mobileDataFilename.includes("MOBILE_DATA_FILENAME") && typeof navigator !== "undefined" && /(?:phone|windows\\s+phone|ipod|blackberry|(?:android|bb\\d+|meego|silk|googlebot) .+? mobile|palm|windows\\s+ce|opera mini|avantgo|mobilesafari|docomo|kaios)/i.test(navigator.userAgent)) 
+		{
+			window.config.metadata.data_filename = mobileDataFilename;
+			window.config.cachedDecompressedFileSizes[mobileDataFilename] = 32943757;
+		}
+	</script>
+</head>
+<body>
+	<script src="master-loader.js"></script>
+<div id="rotate-landscape">
+		<img src="images/r.png" class="center">
+	</div>
+
+	<script src="https://www.gstatic.com/firebasejs/9.9.3/firebase-app-compat.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/9.9.3/firebase-auth-compat.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/9.9.3/firebase-database-compat.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/9.9.3/firebase-analytics-compat.js"></script>
+	<script src="https://www.gstatic.com/firebasejs/9.9.3/firebase-functions-compat.js"></script>
+	<script src="scripts/main.js"></script>
+	<script src="scripts/auth.js"></script>
+	<script>
+		var firebaseConfig = {
+			apiKey: "AIzaSyAdY2qq9083amKDS0R8tn2tjIKQB8mocco",
+			authDomain: "webgltest-17af1.firebaseapp.com",
+			databaseURL: "https://webgltest-17af1.firebaseio.com",
+			projectId: "webgltest-17af1",
+			messagingSenderId: "480659433590",
+			appId: "1:480659433590:web:a01ad1599e963843a0d757",
+		};
+		// Initialize Firebase
+		firebase.initializeApp(firebaseConfig);
+
+		firebaseSetScreen=firebaseLogEvent=()=>{};
+
+		var rotateLandscape = document.querySelector("#rotate-landscape");
+
+		if(!isMobile())
+		{
+			rotateLandscape.id = "rotateLandscapeOff";
+			rotateLandscape.style.display = "none";
+		}
+
+		const originalFetch = window.fetch;
+		window.fetch = function(...args) {
+			if (typeof args[0] === "string") {
+				if(args[0].includes("bytebrew.io"))return;
+				args[0] = args[0].replace("https://smashkartsgc.b-cdn.net", "gc_cdn");
+			} else if (args[0] instanceof Request) {
+				if(args[0].url.includes("bytebrew.io"))return;
+				args[0] = new Request(args[0].url.replace("https://smashkartsgc.b-cdn.net", "gc_cdn"), args[0]);
+			}
+			return originalFetch.apply(this, args);
+		};
+
+		const originalOpen = XMLHttpRequest.prototype.open;
+		XMLHttpRequest.prototype.open = function(method, url) {
+			if (url) {
+				if(url.includes("bytebrew.io"))return;
+				url = url.replace("https://smashkartsgc.b-cdn.net", "gc_cdn");
+			}
+			return originalOpen.apply(this, arguments);
+		};
+	</script>
+</body>
+</html>
