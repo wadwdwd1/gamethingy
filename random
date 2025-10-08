@@ -1,5 +1,5 @@
-git rm --cached -r games/SmashKarts
-rm -rf games/SmashKarts/.git
-git add games/SmashKarts
+git rm --cached -r games/IcyPurpleHead3
+rm -rf games/IcyPurpleHead3/.git
+git add games/IcyPurpleHead3
 git commit -m "Converted FunnyShooter2 repo to regular folder"
 git push
