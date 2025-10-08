@@ -1,5 +1,5 @@
-git rm --cached -r games/ParkourRace
-rm -rf games/ParkourRace/.git
-git add games/ParkourRace
+git rm --cached -r games/SmashKarts
+rm -rf games/SmashKarts/.git
+git add games/SmashKarts
 git commit -m "Converted FunnyShooter2 repo to regular folder"
 git push
